@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "Deep Q-Network para control visual en ViZDoom"
+type: software
+authors:
+  - family-names: "Leon Calderon"
+    given-names: "Javier Estiven"
+    email: "javleonca@unal.edu.co"
+  - family-names: "Barragan Silva"
+    given-names: "Laura Daniela"
+    email: "lbarragans@unal.edu.co"
+year: 2026
+repository-code: "https://github.com/SlLeonn/VizDoom_DQN"
+keywords:
+  - reinforcement learning
+  - deep q-network
+  - dqn
+  - vizdoom
+  - machine learning
+license: MIT
